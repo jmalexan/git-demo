@@ -1,4 +1,4 @@
 print("Hello Oregon State University!")
-print("this is a test.")
+print("This is a test.")
 
 print("3! = 6")
